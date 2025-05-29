@@ -53,8 +53,8 @@
 
 ## 📫 ¿Conectamos?
 
-- 💼 **LinkedIn:** [linkedin.com/in/TU-USUARIO](https://linkedin.com/in/TU-USUARIO)
-- 📧 **Correo:** tuemail@ejemplo.com
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/brahian-stiven-mesa-calvo-a6a741368/)
+- 📧 **Correo:** brastivmesa@gmail.com
 - 🌐 **Portafolio:** https://tuportafolio.com (opcional)
 
 ---
