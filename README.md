@@ -11,18 +11,6 @@
 
 ---
 
-## 🎯 Perfil Rápido
-
-<div align="center">
-
-  <!-- Profile Trophy -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=brahian-mesa&theme=algolia&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 👤 Sobre Mí
 
 <p align="center">
