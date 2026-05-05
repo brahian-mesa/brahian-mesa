@@ -19,7 +19,7 @@
 
 <div align="center">
 
-**Desarrollador de Software apasionado | Estudiante 4° semestre | Full Stack Dev en formación**
+**Desarrollador de Software apasionado | Estudiante 5° semestre | Full Stack Dev en formación**
 
 🎓 **Universidad Católica de Pereira**
 📍 **Pereira, Risaralda - Colombia** 🇨🇴
