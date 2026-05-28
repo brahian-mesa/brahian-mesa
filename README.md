@@ -1,249 +1,288 @@
-<!-- Header Section with Animation -->
 <div align="center">
 
-  <!-- Animated Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=50&lines=✨+Bienvenido+a+mi+perfil+✨;👋+Hola,+soy+Stiven+Mesa;🚀+Full+Stack+Developer+en+desarrollo;💻+Desde+Pereira,+Colombia+🇨🇴" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:00BFFF&text=Brahian%20Stiven%20Mesa&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn" />
 
-  <!-- Capsule Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Stiven%20Mesa&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=30" />
+<h2>
+💻 Software Developer | Backend • Frontend • Mobile • IoT • DevOps
+</h2>
 
-</div>
-
----
-
-## 👤 Sobre Mí
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122014-437acdb8-6047-4900-b5a0-6a7e2a85e824.gif" width="600"/>
+<p>
+Construyendo soluciones reales mediante software, infraestructura e integración tecnológica.
 </p>
 
-<div align="center">
-
-**Desarrollador de Software apasionado | Estudiante 5° semestre | Full Stack Dev en formación**
-
-🎓 **Universidad Católica de Pereira**
-📍 **Pereira, Risaralda - Colombia** 🇨🇴
-💻 **Apasionado por el código y la innovación**
-
-</div>
-
-### 🚀 Mis Intereses
-
-- 🎨 Desarrollo de interfaces modernas y atractivas
-- ⚙️ Arquitectura de software escalable
-- 🌐 APIs REST y arquitecturas modernas
-- 🧠 Siempre aprendiendo nuevas tecnologías
-- 💡 Crear soluciones que impacten positivamente
-
----
-
-## 💻 Stack Tecnológico
-
-### 🎨 Lenguajes y Frameworks
-
-<p align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
+<p>
+<img src="https://komarev.com/ghpvc/?username=brahian-mesa&label=Visitas&color=00BFFF&style=for-the-badge" />
 </p>
 
-### 🗄️ Bases de Datos y Cloud
+</div>
 
-<p align="center">
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+# 🚀 Sobre Mí
 
-</p>
+```yaml
+Nombre: Brahian Stiven Mesa
+Ubicación: Colombia 🇨🇴
+Rol: Software Developer
 
-### 🛠️ Herramientas y Tecnologías
+Enfoque:
+  - Backend Development
+  - Frontend Development
+  - Mobile Apps
+  - IoT Systems
+  - DevOps
+  - Integración Tecnológica
 
-<p align="center">
+Actualmente:
+  - Proyecto de grado sobre monitoreo energético inteligente
+  - Desarrollo de sistemas administrativos
+  - Automatización e integración de servicios
+```
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+💡 Me apasiona construir sistemas funcionales que conecten software, hardware y automatización para resolver problemas reales.
 
-</p>
+---
+
+# ⚡ Stack Tecnológico
 
 <div align="center">
 
-### Iconos Tecnológicos
-
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css,mysql,postgres,mongodb,git,github,vscode,postman,docker,nodejs,express,redux,tailwind&perline=6" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,react,nextjs,nodejs,express,react,mysql,mongodb,git,github,docker,linux,postman,vscode&perline=6" />
 
 </div>
 
 ---
 
-## 📊 Estadísticas de GitHub
+# 🎨 Frontend Development
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brahian-mesa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-  <!-- Language Stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahian-mesa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&langs_count=10" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js,ts&perline=7" />
 
 </div>
-
-<div align="center">
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.demolab.com/?user=brahian-mesa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🔥 Actividad de Contribución
-
-<div align="center">
-
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brahian-mesa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00BFFF&point=00BFFF" width="100%" />
-
-</div>
-
----
-
-## 🎯 Objetivos y Metas
 
 <table align="center">
-  <tr>
-    <td align="center" width="80">
-      🎯
-    </td>
-    <td>
-      <b>Convertirme en un Full Stack Developer de alto nivel</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      💡
-    </td>
-    <td>
-      <b>Desarrollar aplicaciones que impacten positivamente en la vida de las personas</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      🤝
-    </td>
-    <td>
-      <b>Colaborar activamente en proyectos open source</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      🚀
-    </td>
-    <td>
-      <b>Nunca dejar de aprender y crecer profesionalmente</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      📚
-    </td>
-    <td>
-      <b>Compartir conocimiento y ayudar a la comunidad de desarrolladores</b>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="200">
+
+### ⚛️ React
+
+Interfaces dinámicas y modernas
+
+</td>
+
+<td align="center" width="200">
+
+### 🚀 Next.js
+
+Aplicaciones web escalables
+
+</td>
+
+<td align="center" width="200">
+
+### 📱 React Native
+
+Apps móviles multiplataforma
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🛠️ Proyectos Destacados
+# ⚙️ Backend & APIs
 
 <div align="center">
 
-### 🔨 Construyendo...
-
-![Project 1](https://img.shields.io/badge/🔄-En+Desarrollo-blue?style=for-the-badge)
-
-Proyectos increíbles están en camino 🚀
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java&perline=4" />
 
 </div>
+
+<table align="center">
+<tr>
+<td align="center" width="220">
+
+### 🔌 APIs REST
+
+Desarrollo e integración de servicios
+
+</td>
+
+<td align="center" width="220">
+
+### ⚡ Node.js
+
+Arquitectura backend moderna
+
+</td>
+
+<td align="center" width="220">
+
+### 🐍 Python
+
+Automatización y lógica
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Conectemos
+# 🗄️ Bases de Datos
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahian-stiven-mesa-calvo-a6a741368/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brastivmesa@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brahian-mesa)
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=3" />
 
 </div>
-
----
-
-## 💬 Música & Código
-
-<div align="center">
-
-> _"El código es poesía, y el buen código es arte"_ 🎨
-
-</div>
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&cover_image=true&theme=novatorem&bar_color=00BFFF&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&redirect=true)
-
-</div>
-
----
-
-## 🎨 Trending Repos
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brahian-mesa&repo=brahian-mesa&theme=tokyonight&hide_border=true)](https://github.com/brahian-mesa)
-
-</div>
-
----
-
-## 🌟 Quote of the Day
-
-<div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00BFFF&center=true&width=700&height=100&lines=✨+Creando+código+que+importa+✨;💻+Construyendo+el+futuro+del+software;🎯+Apuntando+a+la+excelencia;🚀+Siempre+aprendiendo%2C+siempre+creciendo" alt="Quote" />
-
-</div>
-
----
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-
-### ¡Gracias por visitar mi perfil! 👋
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=brahian-mesa&color=00BFFF&style=for-the-badge" alt="Profile Views" />
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrahian-mesa%2Fbrahian-mesa&count_bg=%2300BFFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Hit Counter" />
-  </p>
-
-### 💡 La mejor manera de predecir el futuro es crearlo
-
-[![Stars](https://img.shields.io/github/stars/brahian-mesa?label=Profile%20Stars&color=gold&style=for-the-badge)](https://github.com/brahian-mesa)
-
-</div>
-
----
 
 <p align="center">
-  <b>Construido con ❤️ y mucho café ☕</b>
+MySQL • MongoDB • PostgreSQL • Modelado de Datos • Gestión de Información
 </p>
+
+---
+
+# 🌐 IoT & Infrastructure
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESP32-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+⚡ Sistemas Inteligentes
+📡 Monitoreo en Tiempo Real
+🔌 Integración Tecnológica
+🏗️ Infraestructura y Redes
+🤖 Automatización
+
+</div>
+
+---
+
+# 🔥 Proyectos Destacados
+
+## ⚡ EnerMind — Sistema Inteligente de Monitoreo Energético
+
+📌 Proyecto de grado enfocado en monitoreo energético inteligente mediante IoT, dashboards en tiempo real e integración tecnológica.
+
+### Tecnologías:
+
+```txt
+React Native • Node.js • MySQL • ESP32 • APIs REST • IoT
+```
+
+---
+
+## 📚 Sistema de Notas y Asistencia
+
+📌 Plataforma desarrollada para gestión académica, asistencia y control estudiantil.
+
+### Funcionalidades:
+
+* Registro de notas
+* Gestión de asistencia
+* Administración académica
+* Panel administrativo
+
+---
+
+## 💰 Sistema de Tesorería
+
+📌 Sistema orientado a administración y control financiero.
+
+### Funcionalidades:
+
+* Gestión financiera
+* Registro de movimientos
+* Control administrativo
+* Reportes básicos
+
+---
+
+## 🧾 Sistema de Recordatorio Tributario
+
+📌 Plataforma enfocada en automatización y organización de vencimientos tributarios.
+
+### Características:
+
+* Alertas automáticas
+* Gestión tributaria
+* Recordatorios inteligentes
+* Organización fiscal
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brahian-mesa&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahian-mesa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brahian-mesa&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 Actualmente Aprendiendo
+
+```txt
+✔ Arquitectura Backend Escalable
+✔ Docker y Contenedores
+✔ Integración IoT
+✔ Automatización
+✔ Infraestructura Tecnológica
+✔ Optimización de APIs
+✔ Sistemas Distribuidos
+```
+
+---
+
+# 📫 Contacto
+
+<div align="center">
+
+<a href="https://github.com/brahian-mesa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/brahianstivenmesadev/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:brastivmesa@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+
+📧 [brastivmesa@gmail.com](mailto:brastivmesa@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ “Construyendo soluciones reales mediante software, infraestructura e integración tecnológica.”
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:00BFFF"/>
