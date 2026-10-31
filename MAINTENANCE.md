@@ -30,3 +30,5 @@ Sin `GITHUB_TOKEN`, se aplican los límites públicos sin autenticación. Nunca 
 El README usa enlaces, imágenes y secciones desplegables `details`; no ejecuta JavaScript. Banner y gráfica se sirven desde el propio repositorio. Los iconos usan skillicons.dev y tienen texto alternativo y una lista textual equivalente.
 
 Referencias: [README de perfil](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme), [API de commits](https://docs.github.com/en/rest/commits/commits), [permisos de Actions](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#permissions).
+
+La primera ejecución alojada debe comprobarse en Actions. Si GitHub impide iniciar el runner por una restricción de cuenta, la última instantánea sigue visible y puede regenerarse localmente hasta que el propietario resuelva esa restricción.

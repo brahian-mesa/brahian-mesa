@@ -6,6 +6,13 @@
   "truncated": false,
   "commits": [
     {
+      "sha": "4171cf88d6822d69260d4fe8dbd55f3ae0450fd1",
+      "repository": "brahian-mesa/brahian-mesa",
+      "date": "2026-10-31T23:49:52+00:00",
+      "subject": "feat: redesign profile with interactive sections and public commit activity",
+      "url": "https://github.com/brahian-mesa/brahian-mesa/commit/4171cf88d6822d69260d4fe8dbd55f3ae0450fd1"
+    },
+    {
       "sha": "5be2a3588fadc5584ba0b41838dab8be25d10507",
       "repository": "brahian-mesa/portfolio",
       "date": "2026-10-31T20:08:46+00:00",

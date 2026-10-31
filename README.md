@@ -103,21 +103,21 @@ Control de asistencia mediante reconocimiento facial. Sus repositorios documenta
 
 ## Actividad y commits
 
-Aquí puedes seguir cambios reales y abrir cada commit para ver su diferencia de código. Esta sección se actualiza diariamente mediante GitHub Actions.
+Aquí puedes seguir cambios reales y abrir cada commit para ver su diferencia de código. El resumen indica el periodo de la consulta; tiene una actualización diaria configurada mediante GitHub Actions.
 
 <!-- ACTIVITY:START -->
-**9 commits públicos** · 2026-10-04 → 2026-10-31 (UTC)
+**10 commits públicos** · 2026-10-04 → 2026-10-31 (UTC)
 
 ![Actividad de commits públicos en los últimos 28 días](assets/activity.svg)
 
 **Últimos cambios**
 
+- `2026-10-31` · [4171cf8](https://github.com/brahian-mesa/brahian-mesa/commit/4171cf88d6822d69260d4fe8dbd55f3ae0450fd1) · **brahian-mesa/brahian-mesa** — feat: redesign profile with interactive sections and public commit activity
 - `2026-10-31` · [5be2a35](https://github.com/brahian-mesa/portfolio/commit/5be2a3588fadc5584ba0b41838dab8be25d10507) · **brahian-mesa/portfolio** — style: remove decorative star symbols
 - `2026-10-31` · [7500c6f](https://github.com/brahian-mesa/portfolio/commit/7500c6fddde4b8bd07f1161613a129fbab6abbb8) · **brahian-mesa/portfolio** — feat: add persistent light and dark theme toggle
 - `2026-10-31` · [027ce08](https://github.com/brahian-mesa/portfolio/commit/027ce085f72fded32a7e5102b4a3addb3cb407ba) · **brahian-mesa/portfolio** — feat: add Motion interactions and Lucide icons
 - `2026-10-31` · [e35c262](https://github.com/brahian-mesa/portfolio/commit/e35c2629347aaf0aa032bf5eac9c0d3a70294845) · **brahian-mesa/portfolio** — feat: redesign portfolio with animated sections and verified profile
 - `2026-10-31` · [71f3dcc](https://github.com/brahian-mesa/portfolio/commit/71f3dcc9d2ace75cd837e6a5d04f563ec5ee0d8c) · **brahian-mesa/portfolio** — feat: add bilingual about me section and navigation
-- `2026-10-31` · [0e40fa8](https://github.com/brahian-mesa/portfolio/commit/0e40fa87961eafbb0a3127c716001203998091ca) · **brahian-mesa/portfolio** — fix: use confirmed sistemaNotasAsistencia repository
 
 Solo repositorios públicos propios y sus ramas predeterminadas. Se excluyen bots, forks y repositorios archivados. Los commits privados y los de organizaciones no forman parte de esta gráfica.
 
