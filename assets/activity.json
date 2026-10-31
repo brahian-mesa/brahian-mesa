@@ -1,0 +1,72 @@
+{
+  "from": "2026-10-04",
+  "through": "2026-10-31",
+  "timezone": "UTC",
+  "scope": "public-owned-repositories-default-branches",
+  "truncated": false,
+  "commits": [
+    {
+      "sha": "5be2a3588fadc5584ba0b41838dab8be25d10507",
+      "repository": "brahian-mesa/portfolio",
+      "date": "2026-10-31T20:08:46+00:00",
+      "subject": "style: remove decorative star symbols",
+      "url": "https://github.com/brahian-mesa/portfolio/commit/5be2a3588fadc5584ba0b41838dab8be25d10507"
+    },
+    {
+      "sha": "7500c6fddde4b8bd07f1161613a129fbab6abbb8",
+      "repository": "brahian-mesa/portfolio",
+      "date": "2026-10-31T19:18:15+00:00",
+      "subject": "feat: add persistent light and dark theme toggle",
+      "url": "https://github.com/brahian-mesa/portfolio/commit/7500c6fddde4b8bd07f1161613a129fbab6abbb8"
+    },
+    {
+      "sha": "027ce085f72fded32a7e5102b4a3addb3cb407ba",
+      "repository": "brahian-mesa/portfolio",
+      "date": "2026-10-31T18:58:53+00:00",
+      "subject": "feat: add Motion interactions and Lucide icons",
+      "url": "https://github.com/brahian-mesa/portfolio/commit/027ce085f72fded32a7e5102b4a3addb3cb407ba"
+    },
+    {
+      "sha": "e35c2629347aaf0aa032bf5eac9c0d3a70294845",
+      "repository": "brahian-mesa/portfolio",
+      "date": "2026-10-31T18:51:43+00:00",
+      "subject": "feat: redesign portfolio with animated sections and verified profile",
+      "url": "https://github.com/brahian-mesa/portfolio/commit/e35c2629347aaf0aa032bf5eac9c0d3a70294845"
+    },
+    {
+      "sha": "71f3dcc9d2ace75cd837e6a5d04f563ec5ee0d8c",
+      "repository": "brahian-mesa/portfolio",
+      "date": "2026-10-31T18:24:31+00:00",
+      "subject": "feat: add bilingual about me section and navigation",
+      "url": "https://github.com/brahian-mesa/portfolio/commit/71f3dcc9d2ace75cd837e6a5d04f563ec5ee0d8c"
+    },
+    {
+      "sha": "0e40fa87961eafbb0a3127c716001203998091ca",
+      "repository": "brahian-mesa/portfolio",
+      "date": "2026-10-31T18:20:42+00:00",
+      "subject": "fix: use confirmed sistemaNotasAsistencia repository",
+      "url": "https://github.com/brahian-mesa/portfolio/commit/0e40fa87961eafbb0a3127c716001203998091ca"
+    },
+    {
+      "sha": "aab650b2fb63024ace669488362cd740b5013ab7",
+      "repository": "brahian-mesa/portfolio",
+      "date": "2026-10-31T18:19:58+00:00",
+      "subject": "feat: include verified Enermind-energy API and app",
+      "url": "https://github.com/brahian-mesa/portfolio/commit/aab650b2fb63024ace669488362cd740b5013ab7"
+    },
+    {
+      "sha": "8e309ef95e79b7a1e5d7d1de34737738e36d2f4f",
+      "repository": "brahian-mesa/portfolio",
+      "date": "2026-10-31T18:18:25+00:00",
+      "subject": "feat: add verified bilingual portfolio project catalog",
+      "url": "https://github.com/brahian-mesa/portfolio/commit/8e309ef95e79b7a1e5d7d1de34737738e36d2f4f"
+    },
+    {
+      "sha": "da6591a664569a4556ed40a9b99957eae4529898",
+      "repository": "brahian-mesa/portfolio",
+      "date": "2026-10-31T18:08:41+00:00",
+      "subject": "Initial commit",
+      "url": "https://github.com/brahian-mesa/portfolio/commit/da6591a664569a4556ed40a9b99957eae4529898"
+    }
+  ]
+}

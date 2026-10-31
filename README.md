@@ -1,288 +1,157 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:00BFFF&text=Brahian%20Stiven%20Mesa&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn" />
+![Brahian Stiven Mesa Calvo — desarrollo frontend y backend](assets/profile-banner.svg)
 
-<h2>
-💻 Software Developer | Backend • Frontend • Mobile • IoT • DevOps
-</h2>
+**Desarrollo interfaces y servicios que conectan aplicaciones, datos y dispositivos.**
 
-<p>
-Construyendo soluciones reales mediante software, infraestructura e integración tecnológica.
-</p>
+[LinkedIn](https://www.linkedin.com/in/brahianstivenmesadev/) · [Correo](mailto:brastivmesa@gmail.com) · [Portafolio y código](https://github.com/brahian-mesa/portfolio)
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=brahian-mesa&label=Visitas&color=00BFFF&style=for-the-badge" />
-</p>
+[Sobre mí](#sobre-mí) · [Tecnologías](#tecnologías) · [Proyectos](#proyectos) · [Commits](#actividad-y-commits) · [Contacto](#contacto)
 
 </div>
 
----
+## Sobre mí
 
-# 🚀 Sobre Mí
+Soy **Brahian Stiven Mesa Calvo**, de **Pereira, Risaralda, Colombia**. Mi enfoque está en el **desarrollo frontend y backend**, con proyectos web, aplicaciones móviles e integración IoT.
 
-```yaml
-Nombre: Brahian Stiven Mesa
-Ubicación: Colombia 🇨🇴
-Rol: Software Developer
+Busco oportunidades para aportar en equipos que desarrollen interfaces, APIs y aplicaciones de gestión. En **EnerMind** he trabajado principalmente en backend, con aportes en frontend e IoT. En **VencIA** y **FrancentrIA** he participado en frontend y backend.
 
-Enfoque:
-  - Backend Development
-  - Frontend Development
-  - Mobile Apps
-  - IoT Systems
-  - DevOps
-  - Integración Tecnológica
+<details>
+<summary><b>Conoce mi formación y lo que estoy aprendiendo</b></summary>
 
-Actualmente:
-  - Proyecto de grado sobre monitoreo energético inteligente
-  - Desarrollo de sistemas administrativos
-  - Automatización e integración de servicios
-```
+- **Formación:** Tecnología en Desarrollo de Software, Universidad Católica · 2024–2026.
+- **Proyecto de grado:** EnerMind, monitoreo energético inteligente.
+- **Áreas de aprendizaje:** arquitectura backend, integración IoT, Docker, automatización y sistemas distribuidos.
+- **Inglés:** A2, en formación.
 
-💡 Me apasiona construir sistemas funcionales que conecten software, hardware y automatización para resolver problemas reales.
+</details>
 
----
-
-# ⚡ Stack Tecnológico
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,react,nextjs,nodejs,express,react,mysql,mongodb,git,github,docker,linux,postman,vscode&perline=6" />
-
-</div>
-
----
-
-# 🎨 Frontend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js,ts&perline=7" />
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="200">
-
-### ⚛️ React
-
-Interfaces dinámicas y modernas
-
-</td>
-
-<td align="center" width="200">
-
-### 🚀 Next.js
-
-Aplicaciones web escalables
-
-</td>
-
-<td align="center" width="200">
-
-### 📱 React Native
-
-Apps móviles multiplataforma
-
-</td>
-</tr>
-</table>
-
----
-
-# ⚙️ Backend & APIs
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java&perline=4" />
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="220">
-
-### 🔌 APIs REST
-
-Desarrollo e integración de servicios
-
-</td>
-
-<td align="center" width="220">
-
-### ⚡ Node.js
-
-Arquitectura backend moderna
-
-</td>
-
-<td align="center" width="220">
-
-### 🐍 Python
-
-Automatización y lógica
-
-</td>
-</tr>
-</table>
-
----
-
-# 🗄️ Bases de Datos
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=3" />
-
-</div>
+## Tecnologías
 
 <p align="center">
-MySQL • MongoDB • PostgreSQL • Modelado de Datos • Gestión de Información
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,fastapi,nodejs,express,java,spring,mysql,postgres,docker,git,linux&perline=7" alt="JavaScript, TypeScript, React, Python, FastAPI, Node.js, Express, Java, Spring, MySQL, PostgreSQL, Docker, Git y Linux" />
 </p>
 
----
+<details open>
+<summary><b>Frontend y aplicaciones móviles</b></summary>
 
-# 🌐 IoT & Infrastructure
+React · JavaScript · TypeScript · Tailwind CSS · Vite · React Native · Expo · Zustand
 
-<div align="center">
+</details>
 
-<img src="https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ESP32-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge"/>
+<details>
+<summary><b>Backend y datos</b></summary>
 
-</div>
+Python · FastAPI · Node.js · Express · Java · Spring Boot · APIs REST · WebSocket · MySQL · PostgreSQL
 
-<br>
+</details>
 
-<div align="center">
+<details>
+<summary><b>Herramientas e integración IoT</b></summary>
 
-⚡ Sistemas Inteligentes
-📡 Monitoreo en Tiempo Real
-🔌 Integración Tecnológica
-🏗️ Infraestructura y Redes
-🤖 Automatización
+Git · GitHub · Docker · Linux · MQTT · ESP32 · PlatformIO
 
-</div>
+</details>
 
----
+## Proyectos
 
-# 🔥 Proyectos Destacados
+### EnerMind
 
-## ⚡ EnerMind — Sistema Inteligente de Monitoreo Energético
+Monitoreo energético industrial y proyecto de grado. Integra una API, una aplicación móvil y firmware para ESP32.
 
-📌 Proyecto de grado enfocado en monitoreo energético inteligente mediante IoT, dashboards en tiempo real e integración tecnológica.
+**Mi participación:** principalmente backend, con aportes en frontend e integración IoT.
 
-### Tecnologías:
+**Tecnologías del proyecto:** Python, FastAPI, scikit-learn, React Native, Expo, TypeScript, Zustand, ESP32, PlatformIO y MQTT.
 
-```txt
-React Native • Node.js • MySQL • ESP32 • APIs REST • IoT
-```
+<details>
+<summary><b>Explorar los tres componentes de EnerMind</b></summary>
 
----
+- **API:** recepción de mediciones por MQTT, consulta REST/WebSocket, detección de anomalías y proyección de consumo. [enermind-api](https://github.com/Enermind-energy/enermind-api)
+- **App:** pantallas de consumo, dispositivos, análisis y alertas. [enermind-app](https://github.com/Enermind-energy/enermind-app)
+- **Firmware:** ESP32 con sensor PZEM-004T, pantalla OLED, Wi-Fi y MQTT. [firmware-enermind](https://github.com/brahian-mesa/firmware-enermind)
 
-## 📚 Sistema de Notas y Asistencia
+Los tres repositorios son privados y requieren autorización de acceso.
 
-📌 Plataforma desarrollada para gestión académica, asistencia y control estudiantil.
+</details>
 
-### Funcionalidades:
+### VencIA co
 
-* Registro de notas
-* Gestión de asistencia
-* Administración académica
-* Panel administrativo
+Aplicación para contadores colombianos, con gestión de clientes, obligaciones y calendario de vencimientos documentados en el proyecto.
 
----
+**Mi participación:** frontend y backend. **Tecnologías:** Expo, React Native y TypeScript.
 
-## 💰 Sistema de Tesorería
+[Ver repositorio VencIA](https://github.com/brahian-mesa/VencIA) · Privado
 
-📌 Sistema orientado a administración y control financiero.
+### FrancentrIA
 
-### Funcionalidades:
+Control de asistencia mediante reconocimiento facial. Sus repositorios documentan API, servicios de inteligencia artificial, aplicación móvil y panel administrativo.
 
-* Gestión financiera
-* Registro de movimientos
-* Control administrativo
-* Reportes básicos
+**Mi participación:** frontend y backend.
 
----
+[Backend](https://github.com/brahian-mesa/FrancentrIA) · [Frontend](https://github.com/brahian-mesa/FrancentrIA-Frontend) · Repositorios privados
 
-## 🧾 Sistema de Recordatorio Tributario
+<details>
+<summary><b>Ver otros desarrollos web y backend</b></summary>
 
-📌 Plataforma enfocada en automatización y organización de vencimientos tributarios.
+- **Sistema de asistencia y materias:** pantallas de materias, asistencia, notas y calendario escolar. React y Vite. [Código público](https://github.com/brahian-mesa/sistemaNotasAsistencia)
+- **GnosisNancy:** interfaz de tesorería con personas, pagos, reporte mensual, historial y exportación. React, Vite y Tailwind CSS. [Código privado](https://github.com/brahian-mesa/GnosisNancy)
+- **UrbanPass Backend:** autenticación, usuarios, rutas y servicios documentados. Java, Spring Boot, MySQL y JWT. [Código público](https://github.com/brahian-mesa/Backend-UrbanPass)
+- **Urban Pass:** proyecto web con instrucciones de instalación de componentes de interfaz. [Código privado](https://github.com/brahian-mesa/Urban_Pass)
+- **Sistema de Admisiones:** proyecto con dependencias de Node.js y Express. [Código público](https://github.com/brahian-mesa/Sistema-Admisiones)
 
-### Características:
+</details>
 
-* Alertas automáticas
-* Gestión tributaria
-* Recordatorios inteligentes
-* Organización fiscal
+## Actividad y commits
 
----
+Aquí puedes seguir cambios reales y abrir cada commit para ver su diferencia de código. Esta sección se actualiza diariamente mediante GitHub Actions.
 
-# 📊 GitHub Analytics
+<!-- ACTIVITY:START -->
+**9 commits públicos** · 2026-10-04 → 2026-10-31 (UTC)
 
-<div align="center">
+![Actividad de commits públicos en los últimos 28 días](assets/activity.svg)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brahian-mesa&show_icons=true&theme=tokyonight&hide_border=true"/>
+**Últimos cambios**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahian-mesa&layout=compact&theme=tokyonight&hide_border=true"/>
+- `2026-10-31` · [5be2a35](https://github.com/brahian-mesa/portfolio/commit/5be2a3588fadc5584ba0b41838dab8be25d10507) · **brahian-mesa/portfolio** — style: remove decorative star symbols
+- `2026-10-31` · [7500c6f](https://github.com/brahian-mesa/portfolio/commit/7500c6fddde4b8bd07f1161613a129fbab6abbb8) · **brahian-mesa/portfolio** — feat: add persistent light and dark theme toggle
+- `2026-10-31` · [027ce08](https://github.com/brahian-mesa/portfolio/commit/027ce085f72fded32a7e5102b4a3addb3cb407ba) · **brahian-mesa/portfolio** — feat: add Motion interactions and Lucide icons
+- `2026-10-31` · [e35c262](https://github.com/brahian-mesa/portfolio/commit/e35c2629347aaf0aa032bf5eac9c0d3a70294845) · **brahian-mesa/portfolio** — feat: redesign portfolio with animated sections and verified profile
+- `2026-10-31` · [71f3dcc](https://github.com/brahian-mesa/portfolio/commit/71f3dcc9d2ace75cd837e6a5d04f563ec5ee0d8c) · **brahian-mesa/portfolio** — feat: add bilingual about me section and navigation
+- `2026-10-31` · [0e40fa8](https://github.com/brahian-mesa/portfolio/commit/0e40fa87961eafbb0a3127c716001203998091ca) · **brahian-mesa/portfolio** — fix: use confirmed sistemaNotasAsistencia repository
 
-</div>
+Solo repositorios públicos propios y sus ramas predeterminadas. Se excluyen bots, forks y repositorios archivados. Los commits privados y los de organizaciones no forman parte de esta gráfica.
 
-<div align="center">
+[Ver contribuciones del perfil](https://github.com/brahian-mesa?tab=overview) · [Historial del portafolio](https://github.com/brahian-mesa/portfolio/commits/main/)
+<!-- ACTIVITY:END -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brahian-mesa&theme=tokyonight&hide_border=true"/>
+<details>
+<summary><b>Ver cómo ha evolucionado mi portafolio</b></summary>
 
-</div>
+Cada paso está enlazado con un commit real:
 
----
+1. **Catálogo bilingüe con proyectos verificados.** [8e309ef](https://github.com/brahian-mesa/portfolio/commit/8e309ef95e79b7a1e5d7d1de34737738e36d2f4f)
+2. **API y app de EnerMind incorporadas.** [aab650b](https://github.com/brahian-mesa/portfolio/commit/aab650b2fb63024ace669488362cd740b5013ab7)
+3. **Diseño con seis secciones y animaciones.** [e35c262](https://github.com/brahian-mesa/portfolio/commit/e35c2629347aaf0aa032bf5eac9c0d3a70294845)
+4. **Interacciones con Motion e iconos Lucide.** [027ce08](https://github.com/brahian-mesa/portfolio/commit/027ce085f72fded32a7e5102b4a3addb3cb407ba)
+5. **Modo claro y oscuro con preferencia guardada.** [7500c6f](https://github.com/brahian-mesa/portfolio/commit/7500c6fddde4b8bd07f1161613a129fbab6abbb8)
 
-# 🧠 Actualmente Aprendiendo
+[Explorar todo el historial del portafolio](https://github.com/brahian-mesa/portfolio/commits/main/)
 
-```txt
-✔ Arquitectura Backend Escalable
-✔ Docker y Contenedores
-✔ Integración IoT
-✔ Automatización
-✔ Infraestructura Tecnológica
-✔ Optimización de APIs
-✔ Sistemas Distribuidos
-```
+</details>
 
----
+## Contacto
 
-# 📫 Contacto
+Me interesan oportunidades de **desarrollo frontend y backend**.
 
-<div align="center">
+- **Correo:** [brastivmesa@gmail.com](mailto:brastivmesa@gmail.com)
+- **LinkedIn:** [Brahian Stiven Mesa Calvo](https://www.linkedin.com/in/brahianstivenmesadev/)
+- **Código:** [brahian-mesa](https://github.com/brahian-mesa)
 
-<a href="https://github.com/brahian-mesa">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<details>
+<summary>Cómo se actualiza este perfil</summary>
 
-<a href="https://www.linkedin.com/in/brahianstivenmesadev/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+El diseño principal y la gráfica se guardan en este repositorio. La actividad se genera con Python y GitHub Actions a partir de commits públicos; no requiere publicar tokens ni código privado. El resumen usa fechas UTC y no equivale al total de contribuciones del perfil de GitHub.
 
-<a href="mailto:brastivmesa@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[Ver actualización automática](https://github.com/brahian-mesa/brahian-mesa/actions/workflows/profile-activity.yml) · [Notas de mantenimiento](MAINTENANCE.md)
 
-</div>
-
-<div align="center">
-
-📧 [brastivmesa@gmail.com](mailto:brastivmesa@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ “Construyendo soluciones reales mediante software, infraestructura e integración tecnológica.”
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:00BFFF"/>
+</details>
